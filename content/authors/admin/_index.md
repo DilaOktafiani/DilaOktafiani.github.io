@@ -47,9 +47,9 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Internet of Things (IoT)
+  - Design Thinking
+  - Data Analytics dan Consumer Behavior
 
 education:
   - area: Software engineering
@@ -128,18 +128,18 @@ skills:
     color: "#eeac02"
     color_border: "#f0bf23"
     items:
-      - name: Hiking
+      - name: Fashion illustration
         description: ""
         percent: 60
-        icon: person-simple-walk
-      - name: Cats
+        icon: dress
+      - name: Crocheting
         description: ""
         percent: 100
-        icon: cat
-      - name: Photography
+        icon: ball-of-wool
+      - name: Music listening"
         description: ""
         percent: 80
-        icon: camera
+        icon: music
 
 languages:
   - name: Indonesia
@@ -183,4 +183,4 @@ awards:
 
 ## About Me
 
-Dila Oktafiani is a Software Engineering student who has an interest in developing applications to support the handicraft industry. His research focus includes integrating technology to improve the design and marketing process of craft products, as well as creating digital solutions that support craftsmen in developing their work.
+Dila Oktafiani, a Software Engineering student, is interested in the application of technology to waste-based crafts. He focuses on using used materials to create high-value products and develops applications to support craftspeople in the design and production of works of art. He also seeks to educate the public about the value and complexity of handicrafts.

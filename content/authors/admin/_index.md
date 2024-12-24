@@ -11,7 +11,7 @@ last_name: Oktafiani
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🌷
 
 # Is this the primary user of the site?
 superuser: true
@@ -52,8 +52,8 @@ interests:
   - Information Retrieval
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: Software engineering
+    institution: Muhammadiyah Semarang Institute of Technology, Statistics and Business
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -183,4 +183,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Dila Oktafiani is a Software Engineering student who has an interest in developing applications to support the handicraft industry. His research focus includes integrating technology to improve the design and marketing process of craft products, as well as creating digital solutions that support craftsmen in developing their work.

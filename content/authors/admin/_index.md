@@ -49,7 +49,7 @@ profiles:
 interests:
   - Internet of Things (IoT)
   - Design Thinking
-  - Data Analytics dan Consumer Behavior
+  - Data Analytics and Consumer Behavior
 
 education:
   - area: Software engineering
@@ -136,7 +136,7 @@ skills:
         description: ""
         percent: 100
         icon: ball-of-wool
-      - name: Music listening"
+      - name: Music listening
         description: ""
         percent: 80
         icon: music
@@ -148,6 +148,8 @@ languages:
     percent: 20
   - name: Korea
     percent: 10
+  - name: Jepang
+    percent: 5
 
 # Awards.
 #   Add/remove as many awards below as you like.

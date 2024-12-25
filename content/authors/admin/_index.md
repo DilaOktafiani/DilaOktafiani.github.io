@@ -57,32 +57,22 @@ education:
     date_start: 2023-10-01
     date_end: ""
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+
     button:
       text: "Read Thesis"
       url: "https://example.com"
   - area: Fashion
     institution: Muhammadiyah 2 Wuryantoro Vocational High School
-    date_start: 2020
+    date_start: 2020-06-01
     date_end: 2023-05-05
     summary: |
-      GPA: 3.8/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: ""
     institution: State Junior High School 3 Pracimantoro
-    date_start: 2017
-    date_end: 2020
+    date_start: 2017-06-01
+    date_end: 2020-03-01
     summary: |
-      GPA: 3.4/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Instagram Content Designer
     company_name: PMB ITESA
@@ -92,9 +82,9 @@ work:
     date_end: 2024-10-30
     summary: |
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Creating and Designing Visual Content
+      - Coordinate with the Content Management Team
+      - Optimizing Content for Audience
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -103,9 +93,9 @@ skills:
     items:
       - name: Fashion illustration
         description: ""
-        percent: 70
-        icon: Time Management
-      - name: Data Science
+        percent: 75
+        icon: dress
+      - name: Time Management
         description: ""
         percent: 95
         icon: chart-bar

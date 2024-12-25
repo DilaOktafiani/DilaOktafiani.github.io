@@ -101,7 +101,7 @@ skills:
         icon: chart-bar
       - name: Teamwork
         description: ""
-        percent: 80
+        percent: 85
         icon: circle-stack
   - name: Hobbies
     color: "#eeac02"

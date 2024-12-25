@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Craftswoman
+role: Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -54,17 +54,17 @@ interests:
 education:
   - area: Software engineering
     institution: Muhammadiyah Semarang Institute of Technology, Statistics and Business
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2023-10-01
+    date_end: ""
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: "Read Thesis"
       url: "https://example.com"
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Fashion
+    institution: Muhammadiyah 2 Wuryantoro Vocational High School
+    date_start: 2020
+    date_end: 2023-05-05
     summary: |
       GPA: 3.8/4.0
 
@@ -72,10 +72,10 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: ""
+    institution: State Junior High School 3 Pracimantoro
+    date_start: 2017
+    date_end: 2020
     summary: |
       GPA: 3.4/4.0
 
@@ -84,26 +84,15 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Instagram Content Designer
+    company_name: PMB ITESA
     company_url: ""
     company_logo: ""
-    date_start: 2021-01-01
-    date_end: ""
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ""
-    company_logo: ""
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2024-07-21
+    date_end: 2024-10-30
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
@@ -112,17 +101,17 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: Fashion illustration
         description: ""
-        percent: 80
-        icon: code-bracket
+        percent: 70
+        icon: Time Management
       - name: Data Science
         description: ""
-        percent: 100
+        percent: 95
         icon: chart-bar
-      - name: SQL
+      - name: Teamwork
         description: ""
-        percent: 40
+        percent: 80
         icon: circle-stack
   - name: Hobbies
     color: "#eeac02"
@@ -130,15 +119,15 @@ skills:
     items:
       - name: Fashion illustration
         description: ""
-        percent: 60
+        percent: 80
         icon: dress
       - name: Crocheting
         description: ""
-        percent: 100
+        percent: 90
         icon: ball-of-wool
       - name: Music listening
         description: ""
-        percent: 80
+        percent: 90
         icon: music
 
 languages:
@@ -185,4 +174,4 @@ awards:
 
 ## About Me
 
-Dila Oktafiani, a Software Engineering student, is interested in the application of technology to waste-based crafts. He focuses on using used materials to create high-value products and develops applications to support craftspeople in the design and production of works of art. He also seeks to educate the public about the value and complexity of handicrafts.
+I am a Software Engineering student with a great interest in fashion illustration. Apart from focusing on developing fashion illustrations, I am interested in developing applications that can help illustrator designers promote their products more effectively, utilizing technology to increase visibility and efficiency in the creative industry.

@@ -24,8 +24,8 @@ role: Craftswoman
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Dicoding
-    url: https://www.dicoding.com/
+  - name: Pinterest
+    url: https://id.pinterest.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -49,7 +49,7 @@ profiles:
 interests:
   - Internet of Things (IoT)
   - Design Thinking
-  - Data Analytics and Consumer Behavior
+  - Consumer Data Analytics
 
 education:
   - area: Software engineering

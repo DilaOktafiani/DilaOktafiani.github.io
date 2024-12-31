@@ -122,7 +122,7 @@ languages:
   - name: Korea
     percent: 10
   - name: Jepang
-    percent: 5
+    percent: 10
 
 # Awards.
 #   Add/remove as many awards below as you like.

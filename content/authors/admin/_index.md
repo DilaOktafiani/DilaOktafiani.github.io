@@ -33,18 +33,12 @@ profiles:
   - icon: at-symbol
     url: "anandadila037@gmail.com"
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/gcushen
   - icon: brands/linkedin
     url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
 
 interests:
   - Internet of Things (IoT)
@@ -59,8 +53,8 @@ education:
     summary: |
 
     button:
-      text: "Read Thesis"
-      url: "https://example.com"
+      text: ""
+      url: ""
   - area: Fashion
     institution: Muhammadiyah 2 Wuryantoro Vocational High School
     date_start: 2020-06-01

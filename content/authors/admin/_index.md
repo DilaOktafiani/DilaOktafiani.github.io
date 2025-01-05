@@ -113,15 +113,15 @@ skills:
       - name: Fashion illustration
         description: ""
         percent: 80
-        icon: tshirt
+        icon: paint-brush
       - name: Crocheting
         description: ""
         percent: 90
-        icon: thread
+        icon: yarn
       - name: Music listening
         description: ""
         percent: 100
-        icon: headphones
+        icon: headset
 
 languages:
   - name: Indonesia

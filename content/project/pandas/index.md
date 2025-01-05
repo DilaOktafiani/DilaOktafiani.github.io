@@ -1,11 +1,10 @@
 ---
-title: Pandas
-date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+title: Fashion Sports Style Illustrations
+date: 2024-10-26
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Fashion
+  - Sportswear
+  - Illustration
 ---
 
 Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.

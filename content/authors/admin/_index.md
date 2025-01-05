@@ -117,11 +117,11 @@ skills:
       - name: Crocheting
         description: ""
         percent: 90
-        icon: snow
+        icon: star
       - name: Music listening
         description: ""
         percent: 100
-        icon: volume-up
+        icon: volume
 
 languages:
   - name: Indonesia

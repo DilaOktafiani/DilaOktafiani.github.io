@@ -1,13 +1,12 @@
 ---
-title: PyTorch
-date: 2023-10-26
-external_link: https://github.com/pytorch/pytorch
+title: Fashion Party Style Illustration
+date: 2024-10-26
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Fashion
+  - Party
+  - Illustration
 ---
 
-PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
+Creative and elegant illustrations of various styles of party wear and dresses, showcasing the latest fashion trends for special occasions.
 
 <!--more-->

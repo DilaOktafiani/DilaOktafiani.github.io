@@ -7,6 +7,6 @@ tags:
   - Illustration
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+Creative and dynamic illustrations of sports style outfits, showcasing modern fashion trends for active wear.
 
 <!--more-->

@@ -1,5 +1,5 @@
 ---
-title: Fashion Party Style Illustration
+title: Radiant Red Party Styles
 date: 2024-08-25
 tags:
   - Fashion

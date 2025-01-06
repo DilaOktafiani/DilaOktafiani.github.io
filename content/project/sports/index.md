@@ -1,5 +1,5 @@
 ---
-title: Fashion Sports Illustration
+title: Sporty Elegance Art
 date: 2024-08-02
 tags:
   - Fashion

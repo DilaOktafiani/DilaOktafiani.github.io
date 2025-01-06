@@ -7,7 +7,7 @@ tags:
   - Illustration
 image:
   caption: "Fashion Casual Illustration"
-  filename: "casualstyle.png"
+  filename: "casual.png"
 ---
 
 Creative and elegant illustrations of various clothing and casual styles, showcasing the latest fashion trends for special occasions.

@@ -7,7 +7,7 @@ tags:
   - Illustration
 image:
   caption: "Fashion Party Illustration"
-  filename: "partystyle.png"
+  filename: "party.png"
 ---
 
 Creative and elegant illustrations of various styles of party wear and dresses, showcasing the latest fashion trends for special occasions.

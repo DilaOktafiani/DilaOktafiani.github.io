@@ -121,7 +121,7 @@ skills:
       - name: Music listening
         description: ""
         percent: 100
-        icon: balloon
+        icon: battery-charging
 
 languages:
   - name: Indonesia

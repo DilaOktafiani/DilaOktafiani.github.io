@@ -1,6 +1,6 @@
 ---
-title: Fashion Sports Style Illustrations
-date: 2024-10-26
+title: Fashion Sports Style Illustration
+date: 2024-08-02
 tags:
   - Fashion
   - Sportswear

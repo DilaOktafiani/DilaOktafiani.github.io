@@ -1,6 +1,6 @@
 ---
 title: Fashion Party Style Illustration
-date: 2024-10-26
+date: 2024-08-25
 tags:
   - Fashion
   - Party

@@ -121,7 +121,7 @@ skills:
       - name: Music listening
         description: ""
         percent: 100
-        icon: volume
+        icon: activity
 
 languages:
   - name: Indonesia

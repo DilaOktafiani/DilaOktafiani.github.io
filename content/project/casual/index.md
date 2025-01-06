@@ -3,7 +3,7 @@ title: Laid-back Style Art
 date: 2024-06-20
 tags:
   - Fashion
-  - Party
+  - Casual
   - Illustration
 image:
   caption: "Fashion Casual Illustration"

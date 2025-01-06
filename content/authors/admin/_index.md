@@ -130,7 +130,7 @@ languages:
     percent: 20
   - name: Korea
     percent: 10
-  - name: Jepang
+  - name: Japan
     percent: 10
 ---
 

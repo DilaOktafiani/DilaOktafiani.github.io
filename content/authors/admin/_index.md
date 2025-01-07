@@ -15,7 +15,7 @@ last_name: Oktafiani
 # Status emoji
 
 status:
-icon: 🌷
+  icon: 🌷
 
 # Is this the primary user of the site?
 
@@ -41,7 +41,7 @@ organizations:
 
 profiles:
   - icon: at-symbol
-    url: "anandadila037@gmail.com"
+    url: "mailto:anandadila037@gmail.com"
     label: E-mail Me
   - icon: brands/instagram
     url: https://www.instagram.com/dlnndktfn/

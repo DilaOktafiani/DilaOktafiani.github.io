@@ -51,9 +51,9 @@ profiles:
     url: https://www.linkedin.com/
 
 interests:
-  - Internet of Things (IoT)
-  - Design Thinking
-  - Consumer Data Analytics
+  - Fashion Illustration
+  - Animation
+  - Crafting
 
 education:
   - area: Software engineering
@@ -82,7 +82,7 @@ work:
     date_start: 2024-07-21
     date_end: 2024-10-30
     summary: |
-    Responsibilities include:
+    Responsibilities:
       - Creating and Designing Visual Content
       - Coordinate with the Content Management Team
       - Optimizing Content for Audience

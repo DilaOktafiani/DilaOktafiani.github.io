@@ -1,5 +1,5 @@
 ---
-title: "Serenity Playlist"
+title: "Taeyeon - Dream"
 summary: "Relax with this soothing playlist of beautiful tracks."
 date: 2023-10-24
 type: docs
@@ -10,10 +10,8 @@ image:
   caption: "Enjoy this peaceful playlist"
 ---
 
-## NCT 2021 - Beautiful
+Take a peaceful break with **Dream** by Taeyeon. Watch it here:
 
-Relax to the soothing track **Beautiful** by NCT 2021. Watch it here:
-
-## {{< youtube "tnyQbPIwyKE" >}}
+## {{< youtube "aPGrQ9Xygxg" >}}
 
 We hope you enjoy the serenity and peace these tracks bring!

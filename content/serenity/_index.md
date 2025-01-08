@@ -19,6 +19,6 @@ sections:
           - serenity
     design:
       view: article-grid
-      columns: 2
+      columns: 3
       paginate: false
 ---

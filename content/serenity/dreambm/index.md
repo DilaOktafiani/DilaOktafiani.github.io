@@ -7,6 +7,7 @@ math: false
 tags:
   - Music
 image:
+  filename: "bm.jpg"
   caption: "Enjoy this peaceful playlist"
 ---
 

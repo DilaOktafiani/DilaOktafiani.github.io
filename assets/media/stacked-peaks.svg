@@ -2,18 +2,15 @@
   <defs>
     <linearGradient id="gradient1" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" style="stop-color:#800080; stop-opacity:1" />
-      <stop offset="50%" style="stop-color:#9b59b6; stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#b47ed3; stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#4B0082; stop-opacity:1" />
     </linearGradient>
     <linearGradient id="gradient2" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#9b59b6; stop-opacity:1" />
-      <stop offset="50%" style="stop-color:#b47ed3; stop-opacity:1" />
+      <stop offset="0%" style="stop-color:#4B0082; stop-opacity:1" />
       <stop offset="100%" style="stop-color:#800080; stop-opacity:1" />
     </linearGradient>
     <linearGradient id="gradient3" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#b47ed3; stop-opacity:1" />
-      <stop offset="50%" style="stop-color:#800080; stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#9b59b6; stop-opacity:1" />
+      <stop offset="0%" style="stop-color:#800080; stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#4B0082; stop-opacity:1" />
     </linearGradient>
   </defs>
   <path d="M0 104L87 158L175 125L262 131L349 163L436 163L524 168L611 174L698 136L785 104L873 125L960 147L960 0L873 0L785 0L698 0L611 0L524 0L436 0L349 0L262 0L175 0L87 0L0 0Z" fill="url(#gradient1)"></path>

@@ -10,5 +10,4 @@ sections:
     design:
       view: article-grid
       columns: 2
-      paginate_count: 5
 ---

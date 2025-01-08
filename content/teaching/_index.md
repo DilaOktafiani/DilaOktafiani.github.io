@@ -1,5 +1,5 @@
 ---
-title: Teaching
+title: Serenity
 summary: My courses
 type: landing
 
@@ -11,12 +11,12 @@ cascade:
 
 sections:
   - block: collection
-    id: teaching
+    id: serenity
     content:
-      title: Teaching
+      title: Serenity
       filters:
         folders:
-          - teaching
+          - serenity
     design:
       view: article-grid
       columns: 2

@@ -1,4 +1,14 @@
 ---
+title: Serenity
+summary: My courses
+type: landing
+
+cascade:
+  - target:
+      kind: page
+    params:
+      show_breadcrumb: true
+
 sections:
   - block: collection
     id: serenity
@@ -9,5 +19,6 @@ sections:
           - serenity
     design:
       view: article-grid
-      columns: 2
+      columns: 1
+      paginate: false
 ---

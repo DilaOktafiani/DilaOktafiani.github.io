@@ -20,7 +20,8 @@ sections:
     design:
       view: article-grid
       columns: 2
-   - block: content
+
+  - block: content
     id: youtube-playlist-section
     content:
       title: Serenity Playlist

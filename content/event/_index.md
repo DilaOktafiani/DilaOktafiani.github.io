@@ -10,4 +10,12 @@ view: card
 image:
   caption: ""
   filename: ""
+
+# Awards section
+awards:
+  - title: "No Awards Yet"
+    awarder: "N/A"
+    date: "TBA"
+    summary: |
+      Currently, no awards have been received. Looking forward to achieving milestones and recognition in the future!
 ---

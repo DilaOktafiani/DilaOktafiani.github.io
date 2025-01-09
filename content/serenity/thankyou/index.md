@@ -1,7 +1,7 @@
 ---
 title: "Treasure (Asahi x Haruto) - Thank You"
 summary: "Thank You expresses gratitude for the love and support received."
-date: 2025-01-08
+date_format: "Des 31, 2024"
 type: docs
 math: false
 tags:

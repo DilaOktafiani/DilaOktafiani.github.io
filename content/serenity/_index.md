@@ -1,5 +1,5 @@
 ---
-title: Serenity
+title: Find Your Peace
 summary: My courses
 type: landing
 

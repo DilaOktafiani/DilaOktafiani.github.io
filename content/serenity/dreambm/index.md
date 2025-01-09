@@ -1,7 +1,7 @@
 ---
 title: "Baby Monster - Dream"
-summary: "Relax with this soothing playlist of beautiful tracks."
-date: 2023-10-24
+summary: ""Dream" by Baby Monster has the theme of chasing dreams and never giving up. The lyrics encourage you to keep fighting even when facing obstacles. With an energetic melody, this song inspires listeners to achieve goals."
+date: 2025-01-08
 type: docs
 math: false
 tags:
@@ -10,6 +10,8 @@ image:
   filename: "bm.jpg"
   caption: "Enjoy this peaceful playlist"
 ---
+
+## Time to tune in!
 
 Relax and enjoy **Dream** by Baby Monster. Watch it here:
 

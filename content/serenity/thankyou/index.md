@@ -1,6 +1,6 @@
 ---
 title: "Treasure (Asahi x Haruto) - Thank You"
-summary: "Relax with this soothing playlist of beautiful tracks."
+summary: ""Thank You" by Asahi and Haruto of Treasure expresses their gratitude and appreciation to the people who have supported them. The lyrics are full of emotion, describing feelings of gratitude for the love and support received."
 date: 2025-01-08
 type: docs
 math: false
@@ -10,6 +10,8 @@ image:
   filename: "you.jpg"
   caption: "Enjoy this peaceful playlist"
 ---
+
+## Time to tune in!
 
 Enjoy the collaboration of **Asahi x Haruto** from Treasure:
 

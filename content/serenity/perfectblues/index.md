@@ -1,6 +1,6 @@
 ---
 title: "Hannah Bahng - Perfect Blues"
-summary: "Relax with this soothing playlist of beautiful tracks."
+summary: ""Perfect Blues" by Hannah Bahng depicts melancholic feelings about a relationship full of doubts and disappointments. With a bluesy feel, this song conveys deep emotions."
 date: 2025-01-08
 type: docs
 math: false
@@ -10,6 +10,8 @@ image:
   filename: "blue.jpg"
   caption: "Enjoy this peaceful playlist"
 ---
+
+## Time to tune in!
 
 Immerse yourself in the calming sounds of **Perfect Blues** by Hannah Bahng. Watch it here:
 

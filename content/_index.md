@@ -41,9 +41,9 @@ sections:
       view: article-grid
       columns: 1
   - block: collection
-    id: news
+    id: hacks
     content:
-      title: Recent News
+      title: Growth Hacks
       subtitle: ""
       text: ""
       # Page type to display. E.g. post, talk, publication...

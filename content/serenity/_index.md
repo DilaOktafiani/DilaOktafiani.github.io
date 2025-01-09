@@ -1,5 +1,5 @@
 ---
-title: Find Your Peace
+title: Serenity
 summary: My courses
 type: landing
 
@@ -13,7 +13,7 @@ sections:
   - block: collection
     id: serenity
     content:
-      title: Serenity
+      title: Find Your Peace
       filters:
         folders:
           - serenity

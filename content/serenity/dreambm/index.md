@@ -1,6 +1,6 @@
 ---
 title: "Baby Monster - Dream"
-summary: "Dream by Baby Monster has the theme of chasing dreams and never giving up. The lyrics encourage you to keep fighting even when facing obstacles. With an energetic melody, this song inspires listeners to achieve goals."
+summary: "Dream is about pursuing dreams, facing challenges, and staying determined to reach goals."
 date: 2025-01-08
 type: docs
 math: false

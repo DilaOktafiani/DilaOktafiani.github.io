@@ -1,6 +1,6 @@
 ---
 title: "Hannah Bahng - Perfect Blues"
-summary: "Perfect Blues by Hannah Bahng depicts melancholic feelings about a relationship full of doubts and disappointments. With a bluesy feel, this song conveys deep emotions."
+summary: "Perfect Blues expresses melancholic feelings about a disappointing, doubtful relationship."
 date: 2025-01-08
 type: docs
 math: false

@@ -10,8 +10,8 @@ main:
   - name: Awards
     url: /#awards
     weight: 12
-  - name: Insights
-    url: /#insights
+  - name: Hacks
+    url: /#hacks
     weight: 13
   - name: Experience
     url: experience/

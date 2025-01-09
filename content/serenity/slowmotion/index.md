@@ -1,6 +1,6 @@
 ---
 title: "Treasure - Slowmotion"
-summary: "Slowmotion by Treasure describes the feeling of falling in love that makes time seem to slow down. The lyrics reflect the desire to enjoy every moment with the people you love."
+summary: "Slowmotion expresses the feeling of falling in love, where time slows down, savoring every moment."
 date: 2025-01-08
 type: docs
 math: false

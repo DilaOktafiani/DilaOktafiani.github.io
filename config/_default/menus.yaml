@@ -7,9 +7,6 @@ main:
   - name: Bio
     url: /
     weight: 10
-  - name: Certifications
-    url: /#certifications
-    weight: 12
   - name: Hacks
     url: /#hacks
     weight: 13

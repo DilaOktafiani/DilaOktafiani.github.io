@@ -1,5 +1,5 @@
 ---
-title: "Awards"
+title: "Certifications"
 date: 2025-01-05
 type: landing
 
@@ -15,7 +15,7 @@ sections:
       text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
       filters:
         folders:
-          - awards
+          - certifications
     design:
       view: article-grid
       fill_image: false

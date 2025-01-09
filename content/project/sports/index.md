@@ -12,5 +12,3 @@ image:
 sports style fashion illustration with elegant elements that combine functionality and style.
 
 <!--more-->
-
-<img src="sports.png" alt="Sporty Elegance Art" style="width: auto; height: auto;">

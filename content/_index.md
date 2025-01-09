@@ -31,12 +31,12 @@ sections:
           position: center
           parallax: false
   - block: collection
-    id: awards
+    id: certifications
     content:
-      title: Awards
+      title: Certifications
       filters:
         folders:
-          - event
+          - awards
     design:
       view: article-grid
       columns: 1

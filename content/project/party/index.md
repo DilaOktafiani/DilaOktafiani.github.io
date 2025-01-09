@@ -12,5 +12,3 @@ image:
 red party fashion illustration, combining confidence and luxury.
 
 <!--more-->
-
-<img src="party.png" alt="Radiant Red Party Styles" style="width: auto; height: auto;">

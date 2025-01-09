@@ -12,5 +12,3 @@ image:
 fashion illustration with a relaxed and casual style, prioritizing comfort and simplicity.
 
 <!--more-->
-
-<img src="casual.png" alt="Laid-back Style Art" style="width: auto; height: auto;">

@@ -1,11 +1,11 @@
 ---
-title: 🎯 Effective Time Management Tips for Busy Professionals
+title: 🎯Maximize Your Time, Maximize Your Impact
 summary: Maximize your productivity by learning simple and practical time management techniques that can fit into your busy schedule!
-date: 2023-10-27
+date: 2024-12-31
 
 # Featured image
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com)"
+  filename: "mw.jpg"
 
 authors:
   - admin

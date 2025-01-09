@@ -6,7 +6,6 @@ tags:
   - Party
   - Illustration
 image:
-  caption: "Fashion Party Illustration"
   filename: "party.png"
 ---
 

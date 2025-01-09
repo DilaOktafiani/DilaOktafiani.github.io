@@ -1,6 +1,6 @@
 ---
 title: "Hannah Bahng - Perfect Blues"
-summary: "Perfect Blues expresses melancholic feelings about a disappointing, doubtful relationship."
+summary: "Perfect Blues by Hannah Bahng expresses melancholic feelings about a disappointing, doubtful relationship."
 date: 2025-01-08
 type: docs
 math: false

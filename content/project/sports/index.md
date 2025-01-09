@@ -6,7 +6,6 @@ tags:
   - Sportswear
   - Illustration
 image:
-  caption: "Fashion Sports Illustration"
   filename: "sports.png"
 ---
 

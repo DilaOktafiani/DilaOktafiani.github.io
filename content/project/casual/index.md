@@ -6,7 +6,6 @@ tags:
   - Casual
   - Illustration
 image:
-  caption: "Fashion Casual Illustration"
   filename: "casual.png"
 ---
 

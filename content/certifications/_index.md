@@ -16,7 +16,7 @@ sections:
       title: "Certifications"
       filters:
         folders:
-          - awards
+          - certifications
     design:
       view: article-grid
       columns: 1

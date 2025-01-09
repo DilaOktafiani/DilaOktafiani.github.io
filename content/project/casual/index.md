@@ -9,6 +9,8 @@ image:
   filename: "casual.png"
 ---
 
-Creative and elegant illustrations of various clothing and casual styles, showcasing the latest fashion trends for special occasions.
+fashion illustrations that display a relaxed and casual style, with a focus on comfort and simplicity in clothing.
 
 <!--more-->
+
+<img src="casual.png" alt="Laid-back Style Art" style="width: auto; height: auto;">

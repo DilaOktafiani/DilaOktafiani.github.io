@@ -9,6 +9,8 @@ image:
   filename: "sports.png"
 ---
 
-Creative and dynamic illustrations of sports style outfits, showcasing modern fashion trends for active wear.
+fashion illustration in sports style with elegant elements. This collection features clothing that combines functionality and style.
 
 <!--more-->
+
+<img src="sports.png" alt="Sporty Elegance Art" style="width: auto; height: auto;">

@@ -1,23 +1,23 @@
 ---
 title: "Awards"
-summary: "A collection of my recognized achievements and certificates."
-type: "landing"
+date: 2025-01-05
+type: landing
 
-cascade:
-  - _target:
-      kind: page
-    params:
-      show_breadcrumb: true
+design:
+  # Section spacing
+  spacing: "5rem"
 
+# Page sections
 sections:
   - block: collection
-    id: awards
     content:
-      title: "Awards"
+      title: Selected Projects
+      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
       filters:
         folders:
           - awards
     design:
       view: article-grid
+      fill_image: false
       columns: 1
 ---

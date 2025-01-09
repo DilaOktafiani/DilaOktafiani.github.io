@@ -9,6 +9,8 @@ image:
   filename: "party.png"
 ---
 
-Creative and elegant illustrations of various styles of party wear and dresses, showcasing the latest fashion trends for special occasions.
+party fashion illustration in red, combining confidence and luxury, creating a striking and elegant appearance.
 
 <!--more-->
+
+<img src="party.png" alt="Radiant Red Party Styles" style="width: auto; height: auto;">

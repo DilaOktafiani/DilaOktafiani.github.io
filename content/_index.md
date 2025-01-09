@@ -31,16 +31,6 @@ sections:
           position: center
           parallax: false
   - block: collection
-    id: certifications
-    content:
-      title: Certifications
-      filters:
-        folders:
-          - awards
-    design:
-      view: article-grid
-      columns: 1
-  - block: collection
     id: hacks
     content:
       title: Growth Hacks

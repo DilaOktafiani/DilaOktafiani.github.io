@@ -1,6 +1,6 @@
 ---
 title: "Taeyeon - Dream"
-summary: " "Dream" by Taeyeon tells the story of chasing dreams and continuing to fight even when facing obstacles. The lyrics are full of hope and belief in a better future."
+summary: "Dream by Taeyeon tells the story of chasing dreams and continuing to fight even when facing obstacles. The lyrics are full of hope and belief in a better future."
 date: 2025-01-08
 type: docs
 math: false

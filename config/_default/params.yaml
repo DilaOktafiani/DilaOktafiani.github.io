@@ -49,8 +49,8 @@ footer:
 
 # Localization
 locale:
-  date_format: "Des 31, 2024"
-  time_format: "9:12 AM"
+  date_format: ""
+  time_format: ""
 
 # Site features
 features:

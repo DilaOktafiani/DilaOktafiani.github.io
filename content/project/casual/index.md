@@ -9,7 +9,7 @@ image:
   filename: "casual.png"
 ---
 
-fashion illustrations that display a relaxed and casual style, with a focus on comfort and simplicity in clothing.
+fashion illustration with a relaxed and casual style, prioritizing comfort and simplicity.
 
 <!--more-->
 

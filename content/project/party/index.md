@@ -9,7 +9,7 @@ image:
   filename: "party.png"
 ---
 
-party fashion illustration in red, combining confidence and luxury, creating a striking and elegant appearance.
+red party fashion illustration, combining confidence and luxury.
 
 <!--more-->
 

@@ -9,7 +9,7 @@ image:
   filename: "sports.png"
 ---
 
-fashion illustration in sports style with elegant elements. This collection features clothing that combines functionality and style.
+sports style fashion illustration with elegant elements that combine functionality and style.
 
 <!--more-->
 

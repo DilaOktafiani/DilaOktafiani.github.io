@@ -41,14 +41,14 @@ organizations:
 
 profiles:
   - icon: at-symbol
-    url: "mailto:anandadila037@gmail.com"
+    url: mailto:anandadila037@gmail.com
     label: E-mail Me
   - icon: brands/instagram
     url: https://www.instagram.com/dlnndktfn/
   - icon: brands/github
     url: https://github.com/DilaOktafiani/
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/dila-ananda-oktafiani-87592a344/
 
 interests:
   - Fashion Illustration

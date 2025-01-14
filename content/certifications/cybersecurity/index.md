@@ -1,7 +1,7 @@
 ---
 title: "Cyber Security Training"
 url: ""
-pdf_url: "/cybersecurity/cyber_security.pdf"
+pdf_url: "https://drive.google.com/file/d/12p5t0xtBfCBK_kXPqyKyoQNHs31mTFgy/view?usp=sharing"
 date: "2024-10-31"
 awarder: "Microsoft"
 icon: ""

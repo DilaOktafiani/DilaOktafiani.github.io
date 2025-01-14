@@ -24,6 +24,10 @@ sections:
       username: admin
     design:
       show_skill_percentage: false
+  - block: resume_certifications
+    content:
+      title: Certifications
+      username: admin
   - block: resume-languages
     content:
       title: Languages

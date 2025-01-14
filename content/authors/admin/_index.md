@@ -32,8 +32,8 @@ role: Student
 # Organizations/Affiliations to display in Biography blox
 
 organizations:
-  - name: Pinterest
-    url: https://id.pinterest.com/
+  - name:
+    url:
 
 # Social network links
 
@@ -88,7 +88,6 @@ work:
       - Optimizing Content for Audience
 
 # Skills
-
 # Add your own SVG icons to `assets/media/icons/`
 
 skills:
@@ -132,6 +131,15 @@ languages:
     percent: 10
   - name: Japan
     percent: 10
+
+certifications:
+  - title: Cyber Security Training
+    url: https://drive.google.com/file/d/12p5t0xtBfCBK_kXPqyKyoQNHs31mTFgy/view?usp=sharing
+    date: "2024-10-31"
+    awarder: Microsoft
+    icon:
+    summary: |
+      Cyber Security Training teaches individuals how to protect systems, networks, and data from digital threats and attacks. The training covers topics such as identifying and preventing malware, phishing, ransomware, and other cyber threats. It also focuses on best practices for safeguarding personal and organizational data, securing networks, and responding to cyber incidents effectively. The goal is to develop skills to mitigate risks and enhance overall security awareness.
 ---
 
 ## About Me

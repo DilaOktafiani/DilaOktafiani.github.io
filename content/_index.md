@@ -58,7 +58,7 @@ sections:
       view: date-title-summary
       # Reduce spacing
       spacing:
-        padding: [0, 0, 0, 0]
+        padding: [5, 0, 0, 0]
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:

@@ -9,6 +9,6 @@ image:
   filename: "sports.png"
 ---
 
-sports style fashion illustration with elegant elements that combine functionality and style.
+sports fashion illustration with elegant elements that combine functionality and style.
 
 <!--more-->

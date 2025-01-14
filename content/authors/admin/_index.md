@@ -132,7 +132,7 @@ languages:
   - name: Japan
     percent: 10
 
-certifications:
+awards:
   - title: Cyber Security Training
     url: https://drive.google.com/file/d/12p5t0xtBfCBK_kXPqyKyoQNHs31mTFgy/view?usp=sharing
     date: "2024-10-31"

@@ -20,4 +20,17 @@ sections:
       view: article-grid
       fill_image: false
       columns: 3
+
+sections:
+  - block: collection
+    content:
+      title: Application Design Project
+      text: I enjoy turning creative concepts into functional and user-friendly applications.
+      filters:
+        folders:
+          - project
+    design:
+      view: article-grid
+      fill_image: false
+      columns: 3
 ---

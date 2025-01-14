@@ -126,7 +126,7 @@ languages:
   - name: Indonesia
     percent: 100
   - name: English
-    percent: 20
+    percent: 25
   - name: Korea
     percent: 10
   - name: Japan

@@ -6,7 +6,7 @@ tags:
   - Sportswear
   - Illustration
 image:
-  filename: "sports.png"
+  filename: "sprt.png"
 ---
 
 sports illustration with elegant elements that combine functionality and style.

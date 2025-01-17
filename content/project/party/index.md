@@ -6,7 +6,7 @@ tags:
   - Party
   - Illustration
 image:
-  filename: "party.png"
+  filename: "red.png"
 ---
 
 red party fashion illustration, combining confidence and luxury.

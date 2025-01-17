@@ -11,13 +11,13 @@ design:
 sections:
   - block: collection
     content:
-      title: Fashion Illustrations & Designs
-      text: I like bringing ideas to life. Below is a selection of projects I created for my portfolio.
+      title: Welcome to My Project
+      text: I’m excited to share my latest work with you. Below are a selection of projects I’ve brought to life.
       filters:
         folders:
           - project
     design:
       view: article-grid
       fill_image: false
-      columns: 3
+      columns: 2
 ---

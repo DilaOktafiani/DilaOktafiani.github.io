@@ -6,7 +6,7 @@ tags:
   - Casual
   - Illustration
 image:
-  filename: "casual.png"
+  filename: "look.png"
 ---
 
 fashion illustration with a relaxed and casual style, prioritizing comfort and simplicity.

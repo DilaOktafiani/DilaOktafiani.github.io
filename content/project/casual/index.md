@@ -2,9 +2,9 @@
 title: Laid-back Style Art
 date: 2024-06-20
 tags:
-  - Fashion
-  - Casual
   - Illustration
+  - Casual
+  - Fashion
 image:
   filename: "look.png"
 ---

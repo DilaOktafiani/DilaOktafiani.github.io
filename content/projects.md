@@ -12,7 +12,7 @@ sections:
   - block: collection
     content:
       title: Welcome to My Project
-      text: I’m excited to share my latest work with you. Below are a selection of projects I’ve brought to life.
+      text: I'm excited to share my latest work with you.
       filters:
         folders:
           - project

@@ -2,8 +2,8 @@
 title: YoStyle
 date: 2024-11-12
 tags:
-  - FashionSoftware
   - FashionApp
+  - FashionSoftware
   - UserInterface
 image:
   filename: "YO.png"

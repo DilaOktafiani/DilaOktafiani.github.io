@@ -2,9 +2,9 @@
 title: Radiant Red Party Styles
 date: 2024-08-25
 tags:
-  - Fashion
-  - Party
   - Illustration
+  - Casual
+  - Fashion
 image:
   filename: "red.png"
 ---

@@ -2,9 +2,9 @@
 title: Sporty Elegance Art
 date: 2024-08-02
 tags:
-  - Fashion
-  - Sportswear
   - Illustration
+  - Casual
+  - Fashion
 image:
   filename: "sprt.png"
 ---
